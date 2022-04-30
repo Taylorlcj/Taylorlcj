@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taylorlcj
-- 👀 I’m interested in being a machine learning/autonomous vehical software engineer
-- 🌱 I’m currently learning C
+- 👀 I’m interested in being a front end developer
+- 🌱 I’m currently learning html/css/javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
