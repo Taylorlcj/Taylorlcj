@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Taylorlcj
 - 👀 I’m interested in being a front end developer
 - 🌱 I’m currently learning html/css/javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... Nothing yet
+- 📫 How to reach me ... Cant yet
