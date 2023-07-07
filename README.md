@@ -1,12 +1,12 @@
 
 ## Taylor Jensen
-**`Aspiring Front End Developer/Student`**
+**`Aspiring UI/UX Designer/Student`**
 
 [![portfolio](https://img.shields.io/badge/my_portfolio(not_started)-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taylor-jensen-695102222/)
 
 ## About Me
-I'm a Human Factors Psychology student at Embry Riddle with a minor in Computer Science. I am training to be a front end developer!
+I'm a Human Factors Psychology student at Embry Riddle with a minor in Computer Science. I am training to be a UI/UX designer!
 
 Here are some of the tools I have worked with:
 
