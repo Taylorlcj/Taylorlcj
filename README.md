@@ -1,12 +1,12 @@
 
 ## Taylor Jensen
-**`Aspiring UI/UX Designer`**
+**`UI/UX Designer`**
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://taylorlcj.wixsite.com/taylorlcjportfolio)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taylor-jensen-695102222/)
 
 ## About Me
-I'm a Human Factors Psychology student at Embry Riddle with a minor in Computer Science. I am training to be a UI/UX designer!
+I specialize in creating intuitive and visually engaging interfaces, combining design principles with user-centered approaches. Skilled in Figma, HTML, CSS, and more, I focus on crafting seamless digital experiences that enhance usability and accessibility. Always seeking new opportunities to design and develop user-friendly solutions.
 
 Here are some of the tools I have worked with:
 
