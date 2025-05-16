@@ -6,7 +6,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taylor-jensen-695102222/)
 
 ## About Me
-I specialize in creating intuitive and visually engaging interfaces, combining design principles with user-centered approaches. Skilled in Figma, HTML, CSS, and more, I focus on crafting seamless digital experiences that enhance usability and accessibility. Always seeking new opportunities to design and develop user-friendly solutions.
+I’m a UI/UX Designer with a background in Human Factors Psychology, focused on creating intuitive, user-centered digital experiences. While my core expertise lies in design, I also dabble in front-end coding to deepen my understanding of how interfaces function in practice. This blend helps me communicate effectively with developers and craft designs that are both beautiful and feasible. I’m passionate about continuous learning and enjoy exploring new tools and techniques to improve usability and accessibility across platforms.
 
 Here are some of the tools I have worked with:
 
