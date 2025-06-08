@@ -21,7 +21,6 @@ I’m a UI/UX Designer with a background in Human Factors Psychology, focused on
 
 <br />
 <br />
----
 
 ## Tools I've worked with:
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
